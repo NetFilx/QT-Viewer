@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>close.ico</file>
+        <file>open.ico</file>
+        <file>up.ico</file>
+        <file>pictures.qrc</file>
+        <file>quit.ico</file>
+        <file>down.ico</file>
+        <file>background.png</file>
+        <file>zoomin.ico</file>
+        <file>zoomout.ico</file>
+        <file>restore.ico</file>
+    </qresource>
+</RCC>
